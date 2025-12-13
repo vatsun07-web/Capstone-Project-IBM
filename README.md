@@ -1,41 +1,61 @@
-IBM Data Analyst Capstone Project – Stack Overflow Developer Survey Analysis
-This project is the final Capstone for the IBM Data Analyst Professional Certificate.
-It analyzes the Stack Overflow Developer Survey to uncover insights about developer trends in programming languages, frameworks, tools, platforms, and databases.
-The project follows a complete data analytics workflow—from raw data to insights.
-🔧 Tools & Technologies
-Python (Pandas, NumPy, Matplotlib, Seaborn)
-Jupyter Notebook
-Excel (supporting analysis)
-IBM Skills Network Labs
-Data Visualization techniques
-📊 Key Analytics Steps
-1. Data Wrangling
-Cleaned survey data
-Handled missing values
-Filtered columns relevant to research questions
-Created derived fields for analysis
-2. Exploratory Data Analysis (EDA)
-Analyzed trends in developer demographics
-Identified top programming languages and tools
-Investigated usage patterns by region, experience level, and industry
-3. Data Visualization
-Built clear, insight-focused charts
-Used visualizations to compare trends across categories
-Highlighted patterns in tech adoption and preferences
-💡 Insights & Outcomes
-The analysis reveals:
-Shifts in preferred programming languages
-Emerging frameworks gaining popularity
-Databases and platforms developers rely on most
-Patterns based on experience levels and roles
-Full discussion is available in Capstone_Report.pdf.
-🎯 Skills Demonstrated
-Data cleaning & preparation
-Statistical exploration
-Data visualization
-Insight generation
-Analytical storytelling
-End-to-end project workflow
-📥 Project Report
-See the full detailed findings in:
-Capstone_Report.pdf
+# IBM Data Analyst Capstone Project  
+## Stack Overflow Developer Survey Analysis
+
+## 📌 Project Overview
+This project is part of the **IBM Data Analyst Professional Certificate Capstone**.  
+The objective is to analyze the **Stack Overflow Developer Survey** to uncover trends in programming languages, tools, platforms, web frameworks, and databases used by developers worldwide.
+
+The project focuses on transforming raw survey data into **actionable insights** through data wrangling, exploratory data analysis, and visualization.
+
+---
+
+## 🎯 Business & Analytical Objectives
+- Identify trends in **popular programming languages and technologies**
+- Analyze developer preferences across **platforms and frameworks**
+- Support **data-driven decision-making** for technology adoption and workforce planning
+- Practice an end-to-end **data analytics workflow**
+
+---
+
+## 🛠 Tools & Technologies
+- **Python**
+- **Jupyter Notebook**
+- **Pandas, NumPy**
+- **Matplotlib, Seaborn**
+- **IBM Skills Network Labs**
+
+---
+
+## 🔍 Project Workflow
+### 1. Data Wrangling
+- Imported raw survey data
+- Cleaned missing and inconsistent values
+- Transformed data into analysis-ready format
+
+### 2. Exploratory Data Analysis (EDA)
+- Analyzed distributions and trends
+- Identified patterns in developer tool usage
+- Compared popularity across technologies
+
+### 3. Data Visualization
+- Created clear and meaningful charts
+- Visualized trends for easier interpretation
+- Communicated insights effectively
+
+---
+
+## 📊 Key Insights
+- Certain programming languages and databases show consistent dominance across regions
+- Web frameworks and platforms evolve rapidly based on developer demand
+- Open-source tools continue to play a significant role in developer ecosystems
+
+*(Insights are based on survey data and visual analysis)*
+## 👤 Author
+**Seiha Vat**  
+Data Analyst | Marketing Analytics | Data Visualization  
+🔗 LinkedIn: *www.linkedin.com/in/seiha-vat-49014b242*
+
+
+---
+
+## 📁 Repository Structure
